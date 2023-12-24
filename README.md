@@ -14,7 +14,7 @@ To run any of the projects in this collection, you can follow these general step
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/python-projects-collection.git
+   git clone https://github.com/f9ki3/python_projects.git
 
 ## Projects
 1. rock paper scissors game
