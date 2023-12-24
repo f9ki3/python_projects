@@ -39,7 +39,7 @@ Make sure you have python installed in your machine:
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Name:** Fyke Lleva
+- **Author:** Fyke Lleva
 - **Email:** floterina@gmail.com
 - **Facebook:** (https://web.facebook.com/FLOZ.STN)
 
