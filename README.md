@@ -33,7 +33,10 @@ Make sure you have python installed in your machine:
    
 ## Projects
 1. rock paper scissors game
-2. 2 rolling dice simulator
+2. two rolling dice simulator
+3. Odd or Even
+4. f9ki3 Burger Shop
+5. test score
 
 ## Contact
 
