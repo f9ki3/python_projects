@@ -46,6 +46,6 @@ Feel free to reach out if you have any questions or suggestions:
 - **Author:** Fyke Lleva
 - **Email:** floterina@gmail.com
 - **Facebook:** (https://web.facebook.com/FLOZ.STN)
-- **Linkedin:** in/fyke-lotere%C3%B1a-a4a7a320b
+- **Linkedin:** (https://www.linkedin.com/in/fyke-lotere%C3%B1a-a4a7a320b/)
 Thank you for exploring my Python projects collection!
 `
