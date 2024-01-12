@@ -38,6 +38,7 @@ Make sure you have python installed in your machine:
 4. f9ki3 Burger Shop
 5. test score
 6. tape measure
+7. sa pula sa puti
 
 ## Contact
 
