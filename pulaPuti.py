@@ -30,12 +30,14 @@ def main():
                 bet = int(input("bet: "))
             except ValueError:
                 print("Invalid Input")
+                print("\n-----------------------------------------------")
             else: 
                 random(guess, bet)
         elif action=="e":
             break
         else:
             print("Invalid Input")
+            print("\n-----------------------------------------------")
             
 def random(guess, bet):
     import random
