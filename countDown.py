@@ -1,4 +1,4 @@
-import time,os, platform
+import time, os
 from pyfiglet import Figlet
 def main():
     timeInput = int(input("Enter number of seconds: "))
